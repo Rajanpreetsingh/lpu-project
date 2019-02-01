@@ -1,0 +1,1 @@
+export const NasaServer = 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&start_date=2019-01-22&end_date=2019-01-31'
